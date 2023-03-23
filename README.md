@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sriyansh2001
 - 👀 I’m interested in Competative Coding
-- 🌱 I’m currently learning Data Structure and Algorithm
+- 🌱 I have a strong side of Data Structure and Algorithm
 - 💞️ I’m looking to collaborate on Leetcode and codechef to imporve coding skill
 - 📫 How to reach me : PSIT Kanpur
 
